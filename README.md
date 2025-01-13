@@ -1,5 +1,5 @@
 # Review_Analyzer_RAG
-This is a project that leverages Retrievel-Augmented Generation (RAG) to analyze and ummarize user reviews on instagram. This project uses Langchain for making the RAG.
+This is a project that leverages Retrievel-Augmented Generation (RAG) to analyze and ummarize user reviews on instagram. This project uses Langchain and OpenAI API for the RAG.
 
 The dataset is collected from : https://www.kaggle.com/datasets/saloni1712/instagram-play-store-reviews
 
@@ -20,6 +20,7 @@ This guide demonstrates how to install the library using Anaconda. Feel free to 
 4. Install the libraries based on requirements.txt
     ```bash
     pip install -r requirements.txt
+5. Make .env file based on the .env example from the repository. 
 ## Flow
 - Read CSV Data
 - Split CSV data into chunks
