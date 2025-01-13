@@ -1,4 +1,8 @@
 # Review_Analyzer_RAG
+This is a project that leverages Retrievel-Augmented Generation (RAG) to analyze and ummarize user reviews on instagram. This project uses Langchain for making the RAG.
+
+The dataset is collected from : https://www.kaggle.com/datasets/saloni1712/instagram-play-store-reviews
+
 ![Flow](https://github.com/Kileorguy/Review_Analyzer_RAG/blob/main/Documentation/RAG%20Flow.png?raw=true)
 
 ## Installation
