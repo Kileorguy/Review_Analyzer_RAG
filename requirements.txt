@@ -1,0 +1,7 @@
+langchain==0.3.14
+langchain_community==0.3.14
+langchain_core==0.3.29
+langchain_openai==0.3.0
+matplotlib==3.10.0
+pandas==2.2.3
+tiktoken==0.8.0

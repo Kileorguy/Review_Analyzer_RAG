@@ -1,4 +1,5 @@
 # Review_Analyzer_RAG
+![Flow](https://github.com/Kileorguy/Review_Analyzer_RAG/blob/main/Documentation/RAG%20Flow.png?raw=true)
 
 
 ## Flow
@@ -48,3 +49,10 @@ The use of this prompt template is so when the model is not sure about the answe
 
 - Context is all of the unique documents that is generated from the Query Translation and then used for searching in VectorDB
 - Query is the original user query.
+
+## Website Demo
+![Image](https://github.com/Kileorguy/Review_Analyzer_RAG/blob/main/Documentation/Website.png?raw=true)
+[Demo Video Here](https://www.youtube.com/watch?v=qA8o_w6GvJg)
+
+
+
