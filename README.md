@@ -1,7 +1,19 @@
 # Review_Analyzer_RAG
 ![Flow](https://github.com/Kileorguy/Review_Analyzer_RAG/blob/main/Documentation/RAG%20Flow.png?raw=true)
 
+## Installation
 
+This guide demonstrates how to install the library using Anaconda. Feel free to use another tool if you prefer.
+
+1. Create an Anaconda environment with Python 3.10.x:  
+   ```bash
+   conda create -n pose_detection python=3.10
+2. Activate the anaconda environment
+    ```bash
+   conda activate pose_detection
+3. Install the libraries based on requirements.txt
+    ```bash
+    pip install -r requirements.txt
 ## Flow
 - Read CSV Data
 - Split CSV data into chunks
