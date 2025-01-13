@@ -3,15 +3,17 @@
 
 ## Installation
 
-This guide demonstrates how to install the library using Anaconda. Feel free to use another tool if you prefer.
+This guide demonstrates how to install the library using Anaconda. Feel free to use another tool if you prefer. Feel free to change the environment name too if you prefer, in this case I will be using "Review_Analyzer"
 
-1. Create an Anaconda environment with Python 3.10.x:  
+1. Open Command Prompt from the root folder 
+
+2. Create an Anaconda environment with Python 3.10.x:  
    ```bash
-   conda create -n pose_detection python=3.10
-2. Activate the anaconda environment
+   conda create -n Review_Analyzer python=3.10
+3. Activate the anaconda environment
     ```bash
-   conda activate pose_detection
-3. Install the libraries based on requirements.txt
+   conda activate Review_Analyzer
+4. Install the libraries based on requirements.txt
     ```bash
     pip install -r requirements.txt
 ## Flow
